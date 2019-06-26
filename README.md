@@ -10,4 +10,4 @@ This application doesn't have data by default
 - Or we can manually add data to the database and use that data to login and access the API.
 
 ### Screens:
-<img src="Screens/image1.png" width=600 height=350>
+<img src="Screens/image1.PNG" width=600 height=350>
